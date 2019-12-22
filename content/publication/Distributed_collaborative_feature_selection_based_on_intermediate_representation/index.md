@@ -4,7 +4,7 @@
 title: "Distributed collaborative feature selection based on intermediate representation"
 authors: [Xiucai Ye, Hongmin Li, Akira Imakura, Tetsuya Sakurai]
 date: 2019-12-21T12:17:54+09:00
-doi: ""
+doi: "https://doi.org/10.24963/ijcai.2019/575"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-08-10T12:17:54+09:00
@@ -26,7 +26,7 @@ summary: "A novel distributed method which allows collaborative feature selectio
 
 tags: [Unsupervised Learning,Feature Selection,Learning Sparse Models,Dimensionality Reduction and Manifold Learning]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

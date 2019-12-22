@@ -26,7 +26,7 @@ summary: "An accelerated spectral clustering method based on sparse presentation
 
 tags: [Spectral Clustering, Hubness, Large Scale, Sparse Representation]
 categories: [Spectral Clustering]
-featured: False
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

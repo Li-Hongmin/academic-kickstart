@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Hongmin Li
+name: Li Hongmin
 
 # Username (this should match the folder name)
 authors:
-- Hongmin Li
+- Li Hongmin
 
 # Is this the primary user of the site?
 superuser: true
@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-Hongmin Li is a PhD student of Computer Science at Mathematical Modeling & Algorithms Laboratory in University of Tsukuba.
+Li Hongmin is a PhD student of Computer Science at Mathematical Modeling & Algorithms Laboratory in University of Tsukuba.
 His research interests include Spectral clustering, Machine learning,
 Precision Medicine.
 <!-- He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->

@@ -4,7 +4,7 @@
 title: "Ensemble Feature Learning to Identify Risk Factors for Predicting Secondary Cancer"
 authors: [Xiucai Ye, Hongmin Li, Tetsuya Sakurai, Pei-Wei Shueng]
 date: 2019-12-22T18:43:03+09:00
-doi: ""
+doi: "10.7150/ijms.33820"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-7-22T18:43:03+09:00
@@ -13,7 +13,7 @@ publishDate: 2019-7-22T18:43:03+09:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -32,7 +32,7 @@ summary: "An effective ensemble feature learning method to identify the risk fac
 
 tags: [secondary cancer, risk factors, class imbalance, patient heterogeneity, spectral clustering, ensemble learning]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
