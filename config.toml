@@ -6,4 +6,3 @@
 #
 # The actual configuration files are stored in the `config/_default/` folder.
 baseurl = "https://li-hongmin.github.io/"
-title = "Hongmin Li"
