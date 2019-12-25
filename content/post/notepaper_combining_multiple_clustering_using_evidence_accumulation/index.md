@@ -7,7 +7,7 @@ title: "Literature Review #1: Combining multiple clustering using evidence accum
 subtitle: ""
 summary: ""
 authors: []
-tags: [clustering ensemble, consensus clustering, voting]
+tags: [clustering ensemble, consensus clustering]
 categories: []
 date: 2019-12-24T16:04:40+09:00
 lastmod: 2019-12-24T16:04:40+09:00
@@ -178,8 +178,7 @@ Authors give an illustration of proposed methods in figure below:
 ### 3.3 Recovering Natural Clusters
 
 The core of the evidence accumulation clustering technique is the mapping of partitions into the co-association matrix, $C$.
-As figure shows, the clustering is obtained using the a hierarchical clustering with co-association matrix.
+As figure shows, the clustering is obtained using the a MST-based clustering with co-association matrix.
 
 ![figure3](1432715-fig-3-source-large.gif)
 *Fig. 3. Dendrogram produced by the SL method using the similarity matrix in Fig. 2g. Distances (1−similarity) are represented along the graph ordinate. From the dendrogram, the following cluster lifetimes are identified: 2-clusters: l2=0.18, 3-clusters: l3=0.36, 4-clusters: l4=0.14, 5-clusters: 0.02. The 3-cluster partition (shown in Fig. 2i), corresponding to the longest lifetime, is chosen (threshold on the dendrogram is between 0.4 and 0.76).*
-
