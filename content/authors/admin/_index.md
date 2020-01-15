@@ -19,12 +19,12 @@ organizations:
 - name: Mathematical Modeling & Algorithms Laboratory
   url: "https://www.mma.cs.tsukuba.ac.jp/"
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, precision medicine and programming.
+bio: My research interests include machine learning, bioinformatics and programming.
 
 interests:
 - Spectral clustering
 - Machine learning
-- Precision Medicine
+- Bioinformatics
 
 
 education:
