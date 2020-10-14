@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Large Scale Spectral Clustering Using Sparse Representation Based on Hubness"
-authors: [Xiucai Ye, Hongmin Li, Tetsuya Sakurai, Zhi Liu]
-date: 2019-12-20T22:50:24+09:00
-doi: "10.1109/SmartWorld.2018.00293"
+title: "Ensemble Learning for Spectral Clustering (Accepted)"
+authors: [Hongmin Li, Xiuca Ye, Akira Imakura, Tetsuya Sakurai]
+date: 2020-10-14T18:06:04+09:00
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2018-10-08
+publishDate: 2020-10-14T18:06:04+09:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,16 +16,16 @@ publishDate: 2018-10-08
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Large Scale Spectral Clustering Using Sparse Representation Based on Hubness"
+publication: ""
 publication_short: ""
 
-abstract: "Spectral clustering has been shown to be more effective than most of the traditional clustering algorithms. However, the heavy computational cost of spectral clustering limits its applicability to large-scale clustering problems. To perform spectral clustering on large datasets, in this paper, we propose an accelerated spectral clustering method based on sparse presentation where each data point is presented as sparse linear combinations of a part of representative data points. The hubs that appear frequently in the nearest neighbor lists of other data points are selected as the representative data points, by which a proper spectral embedding is constructed. Taking advantage of the topological property of hubs, the proposed method is able to achieve scalable and accurate clustering results. We evaluated the proposed method on both synthetic and real-world datasets to show its effectiveness in comparison to the existing related methods."
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "An accelerated spectral clustering method based on sparse presentation where each data point is presented as sparse linear combinations of a part of representative data points."
+summary: "Accepted by ICDM 2020."
 
-tags: [Spectral Clustering, Hubness, Large Scale, Sparse Representation]
-categories: [Spectral Clustering]
+tags: []
+categories: []
 featured: true
 
 # Custom links (optional).
