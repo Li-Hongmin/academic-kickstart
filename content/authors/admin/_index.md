@@ -47,15 +47,24 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=W9oaUkgAAAAJ&hl
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Hongmin-Li-7
+- icon: researcherid
+  icon_pack: ai
+  link: https://researchmap.jp/hongmin
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/li-hongmin/s
 - icon: github
   icon_pack: fab
-  link: https://github.com/wrongcodes
+  link: https://github.com/Li-Hongmin
+- icon: coursera
+  icon_pack: ai
+  link: https://www.coursera.org/user/a0db61f42ff4d196e38e9b939a0f1131
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -73,7 +82,7 @@ user_groups:
 ---
 
 Li Hongmin is a PhD student of Computer Science at Mathematical Modeling & Algorithms Laboratory in University of Tsukuba.
-His research interests include Spectral clustering, Machine learning,
-Precision Medicine.
+His research interests include Spectral clustering, Machine learning, Big Data.
+<!-- He's already on the job market now. -->
 <!-- He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 

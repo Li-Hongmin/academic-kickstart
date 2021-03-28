@@ -10,7 +10,7 @@ weight = 80  # Order that this section will appear.
 
 title = "Featured Publications"
 subtitle = ""
-
+  
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
@@ -33,7 +33,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hubness-based Sampling Method for Nystrom Spectral Clustering
+title: "[IJCANN 2020] Hubness-based Sampling Method for Nystrom Spectral Clustering
 "
 authors: [Hongmin Li, Xiucai Ye, Akira Imakura, Tetsuya Sakurai]
 date: 2020-10-14T17:58:00+09:00

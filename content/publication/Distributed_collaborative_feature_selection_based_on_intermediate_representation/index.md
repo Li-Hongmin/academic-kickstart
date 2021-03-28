@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Distributed collaborative feature selection based on intermediate representation"
+title: "[IJCAI 2019] Distributed collaborative feature selection based on intermediate representation"
 authors: [Xiucai Ye, Hongmin Li, Akira Imakura, Tetsuya Sakurai]
 date: 2019-12-21T12:17:54+09:00
 doi: "10.24963/ijcai.2019/575"
