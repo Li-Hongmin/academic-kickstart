@@ -53,9 +53,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Hongmin-Li-7
-- icon: researcherid
-  icon_pack: ai
-  link: https://researchmap.jp/hongmin
+# - icon: researcherid
+#   icon_pack: ai
+#   link: https://researchmap.jp/hongmin
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/li-hongmin/s
