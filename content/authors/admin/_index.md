@@ -70,6 +70,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/HongminLi_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "li.hongmin.xa@alumni.tsukuba.ac.jp"

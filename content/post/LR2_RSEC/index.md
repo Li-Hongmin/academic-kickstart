@@ -4,7 +4,7 @@
 
 title: "Literature Review #2: Robust Spectral Ensemble Clustering"
 subtitle: ""
-summary: ""
+summary: "paper note"
 authors: []
 tags: [Ensemble Clustering; Spectral Clustering; Co-association Matrix; Low-rank Representation]
 categories: []

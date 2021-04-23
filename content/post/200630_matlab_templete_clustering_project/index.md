@@ -3,7 +3,7 @@
 
 title: "A matlab project template for clustering research"
 subtitle: ""
-summary: ""
+summary: "Experimental framework"
 authors: []
 tags: [MATLAB, github, clustering]
 categories: []
